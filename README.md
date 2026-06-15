@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я Аналитик Данных 👋
 
-<!--
-**khusn-danil/khusn-danil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь продуктовой и дата-аналитикой: помогаю бизнесу принимать решения на основе данных, проверять гипотезы и находить точки роста.
 
-Here are some ideas to get you started:
+### 🛠 Мой стек технологий:
+* **Языки:** Python (Pandas, NumPy, SciPy, Pingouin), SQL
+* **Инструменты:** Jupyter Notebook, Tableau / DataLens, , Git
+* **Анализ данных:** А/Б-тестирование, визуализация данных (Seaborn, Matplotlib), статистика
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Мои главные проекты:
+* [Cookie Cats A/B Testing](https://github.com/khusn-danil/cookie-cats-ab-testing) — Статистический анализ результатов А/Б-теста в мобильной игре. Валидация сплитования (SRM), оценка Retention 1 и 7 дней с помощью Хи-квадрат и анализ вовлеченности через критерий Манна-Уитни.
+* [olist-ecommerce-analytics](https://github.com/khusn-danil/olist-ecommerce-analytics) - Комплексный анализ продуктовых и экономических метрик маркетплейса. Провел сегментацию клиентов (RFM-анализ), когортный анализ удержания (Retention) и расчет LTV. Исследовал географию продаж и влияние задержек доставки на оценку пользователей (CSAT).
+
+### 📫 Как со мной связаться:
+* **Telegram:** @khusn_danil
+* **Email:** danil20000.860@gmail.com
